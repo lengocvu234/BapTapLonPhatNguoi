@@ -58,7 +58,7 @@ Chương trình sẽ tự động chạy vào:
 
 ---
 
-## ☁️ Hướng Dẫn Đẩy Code Lên GitHub
+## Hướng Dẫn Đẩy Code Lên GitHub
 
 ### 1. Cài Đặt Git
 - Tải tại: [https://git-scm.com](https://git-scm.com)
